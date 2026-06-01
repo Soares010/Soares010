@@ -7,8 +7,8 @@ Aberto a novos conhecimentos, estou sempre disposto a aprender para crescer prof
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soares010&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soares010&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Soares010&show_icons=true&theme=radical" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soares010&layout=compact&theme=radical" />
 </p>
 
 
