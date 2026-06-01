@@ -6,16 +6,14 @@ Aberto a novos conhecimentos, estou sempre disposto a aprender para crescer prof
 ---
 
 ### 📊 GitHub Stats:
-<div >
-    <a href="https://github.com/Soares010">
-      <img src="https://github-readme-stats.vercel.app/api?username=Soares010&show_icons=true&theme=radical&include_all_commits=true" 
-           alt="GitHub Stats" width="400" height="200" />
-    </a>
-    <a href="https://github.com/Soares010">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soares010&layout=compact&langs_count=8&theme=radical" 
-           alt="Top Languages" width="400" height="170" />
-    </a>
+<div align="center">
+  <a href="https://github.com/Soares010">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soares010&show_icons=true&theme=radical&include_all_commits=true" />
+  </a>
 
+  <a href="https://github.com/Soares010">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soares010&layout=compact&langs_count=8&theme=radical" />
+  </a>
 </div>
 
 
